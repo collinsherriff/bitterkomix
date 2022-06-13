@@ -1,10 +1,10 @@
 {
   "name": "Sharks NFT One",
   "external_url": "https://staging.bitterkomix.fanfire.ai/0xB6f5dE4B6a56382a7d70d6A8E6b7241e14b1901c/0",
-  "image": "https://raw.githubusercontent.com/collinsherriff/bitterkomix/main/0.jpg",
-  "description": "DEMO Anton Kannemeyer (Joe Dog) and Conrad Botes (Konradski) met in 1988 at the University of Stellenbosch where they both studied Graphic Design. They published their first comic (“Case 308”) together in 1989 in Stet, an Afrikaans literary magazine. In 1992, during their first year of post-graduate studies, they published Bitterkomix No.1, a satirical comic magazine. Shortly after the first democratic elections in South Africa in 1994, their comic book Gif (Afrikaner Sekskomix) was banned. In 1999 they published the Best of Bitterkomix Vol.1, which was followed in 2002 by the Best of Bitterkomix Vol. 2. In 2006 Jacana Media published the Big Bad Bitterkomix Handbook, a compilation of covers, posters, commercial work and artworks they did up to that point, including eight essays and a large selection from their sketchbooks.",
+  "image": "https://raw.githubusercontent.com/collinsherriff/sharks/main/0.jpg",
+  "description": "The Cell C Sharks and Fanfire has teamed up to host a relief auction in support of the clean-up efforts following the devastation that ravaged KZN and Gauteng. The CellC Sharks have sponsored various valuable and unique items, such as limited edition jerseys and boots, that will be auctioned off using the Fanfire auction site. Each of the auction items will be linked to a NFT to ensure ease of ownership transfer. All proceeds will go to funding relief efforts in KZN. Everyone who places a bid will be eligible to win an extremely unique NFT prize.",
   "attributes": [
-    { "trait_type": "Artist", "value": "Joe Dog" },
-    { "trait_type": "Edition", "value": "Case 308" }
+    { "trait_type": "Team ", "value": "Sharks Rugby" },
+    { "trait_type": "Edition", "value": "KZN Edition" }
   ]
 }
