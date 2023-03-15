@@ -1,0 +1,7 @@
+{
+  "image": "https://ipfs.fanfire.ai/ipfs/QmdQRLFxotj6zxG24LV2fEBbWx7PtdDRoGsV4BLAX5apa6/collection.png",
+  "description": "This is the Sharks NFT platform.",
+  "name": "Sharks NFT",
+  "seller_fee_basis_points": "1000",
+  "fee_recipient": "0x25375E1DaFa37a31069d323a37A6f93eaF356123"
+}
